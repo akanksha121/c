@@ -1,0 +1,29 @@
+/***TAG SELECTORS***/
+h1 {
+  color: red;
+  font-size: 200px;
+}
+p {
+  font-style: oblique;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+
+/***CLASS SELECTORS***/
+.apple {
+  background-color: red;
+}
+.google {
+  background-color: green;
+}
+.circular {
+  border-radius: 100%;
+}
+
+/***ID SELECTORS***/
+#heading {
+  color: black;
+}
